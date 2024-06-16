@@ -18,6 +18,7 @@ To run this project locally, Clone the repository download .zip file
  
 ##  Usage
 Once you open the index.html file in your browser, you will see an analog clock with hour, minute, and second hands, as well as a digital clock displaying the current time.
+![alt text](https://github.com/anubhawdwd/analog-digital-clock/blob/main/Analog%20Clock.png)
 
 ##  Features
 #### Analog Clock: Displays the current time with hour, minute, and second hands.
